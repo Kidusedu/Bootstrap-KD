@@ -1,0 +1,105 @@
+#intro-images{
+    border-radius: 80%;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#intro-images-row :hover{
+    box-shadow: 5px 0px 50px #ff6637;
+}
+
+#intro-images-row{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 6%;
+    background-color: cornflowerblue;
+}
+
+#name{
+   
+    font-family: 'Lobster', cursive;
+    font-size: 6rem;
+    text-align: center;
+    color:black;
+  
+
+    text-decoration:underline rgb(101, 45, 230);
+   
+    
+}
+
+#div-num1{
+    padding-top:5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+#div-num1 p{
+    
+    padding-left:  5%;
+    padding-right: 5%;
+    
+}
+
+#div-num1 h1{
+    padding-top: 10px;
+    color:#ff6637;
+   
+}
+
+#div-num1 p{
+    
+    color:white;
+}
+
+
+#div-num1-row{
+    border-radius: 0%;
+}
+
+#webdev-logos img{
+    
+    padding-top:30px;
+    padding-bottom: 30px;
+    max-width:20%;
+    min-width: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+#webdev-logos img:hover{
+    
+    max-width:20.9%;
+    border-radius: 0%;
+    box-shadow: 5px 10px 50px #00000093;
+}
+    
+
+
+
+
+#logos-background{
+    background-color: bisque;
+    /* padding-left: 19%; */
+    margin-bottom: 10px;
+  
+}
+
+
+#webdev-logos{
+    /* background-color: rgb(116, 228, 191) ; */
+    margin-right:20%;
+    margin-left:27%;
+    
+    
+
+}
+
+table{
+    margin-left:300px;
+}
